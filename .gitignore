@@ -1,0 +1,13 @@
+/GSRV_TMIR/*.vbproj
+/GSRV_TMIR/*.vbproj.user
+/GSRV_TMIR/My Project/
+/GSRV_TMIR/bin/
+/GSRV_TMIR/Resources/
+/GSRV_TMIR/obj/
+/GSRV_TMIR/*.ico
+/GSRV_TMIR/*.png
+/GSRV_TMIR/*.gif
+/GSRV_TMIR/*.jpg
+/GSRV_TMIR/*.resx
+*.sln
+*.suo
